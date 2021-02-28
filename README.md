@@ -2,7 +2,7 @@
 
 ## Author: 
 
-Runwen Hu and Shijun Xiang
+#### Runwen Hu and Shijun Xiang
 
 School of Information Science and Technology, Jinan University
 Guangzhou, China
@@ -14,7 +14,7 @@ Guangzhou, China
 
 This version can only support 8-bit grayscale images in BMP format with a size of 512 * 512. The working environment is Windows 10 and MATLAB 2019a. The work is based on the paper:
 
-   R. Hu and S. Xiang, "Cover-Lossless Robust Image Watermarking Against Geometric Deformations," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2020.3036727.
+   #### R. Hu and S. Xiang, "Cover-Lossless Robust Image Watermarking Against Geometric Deformations," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2020.3036727.
 
 
 ## Folder description :
